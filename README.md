@@ -1,6 +1,6 @@
 # caesarinator
 Encrypts, decrypts, and bruteforces caesar ciphers.
-Written in python 3 by Brad Nelson AKA Squirrel
+\nWritten in python 3 by Brad Nelson AKA Squirrel
 
 Encrypt example:
 ```
