@@ -12,7 +12,6 @@
 # By: Brad Nelson AKA Squirrel
 # @redsquirrel_7
 
-import sys
 import argparse
 
 
