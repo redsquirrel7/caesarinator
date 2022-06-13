@@ -9,7 +9,7 @@
 #
 # Caesar cipher encryption, decryption, and bruteforce tool
 #
-# By: Brad Nelson AKA Squirrel
+# By: Squ1rr3l
 # @redsquirrel_7
 
 import argparse
